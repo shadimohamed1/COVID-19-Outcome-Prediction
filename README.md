@@ -36,9 +36,9 @@ The goal is to design and evaluate multiple classifiers to predict patient outco
 2. **Classifiers**:
    - **K-Nearest Neighbors (KNN)**
    - **Logistic Regression**
-   - **Naïve Bayes** (due end of week 11)
+   - **Naïve Bayes**
    - **Decision Trees**
-   - **Support Vector Machines (SVM)** (due end of week 14)
+   - **Support Vector Machines (SVM)** 
 
 ## Evaluation Metrics
 
